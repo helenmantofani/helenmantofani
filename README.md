@@ -1,4 +1,4 @@
-# Hi there, I'm Helen Mantofani - aka [helenmantofani](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Helen Mantofani - aka [helenmantofani](https://www.linkedin.com/in/helen-mantofani) 👋
 ## About me:
 - 🔭 I’m currently working as Pharmacist Assistant
 - 🌱 I’m proficient in Microsoft Office
@@ -7,8 +7,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: helenmantofani77@gmail.com
 
-## Education:
 
+## Education:
 #### 1. [Universitas Ibn Khaldun Bogor](https://www.uika-bogor.ac.id) | Bachelor of Public Health | Bogor `2018-2022`
    - As the coordinator of the National health seminar held by the faculty with the title "Strengthening health promotion to increase health security in tackling covid-19".
    - KKN in pasir angin village by creating a PHBS work program in the school environment
@@ -19,6 +19,7 @@
    - Participate in Inter-class Quiz
    - Participating in the Poetry Competition
    - Become a learning mentor for pharmacy practicum
+
 
 ## Work Experience:
 #### 1. [PT. Duta Intidaya "Watsons"](https://www.watsons.co.id) | Pharmacist Assistant | Depok `Nov'2016 - Now`
@@ -45,17 +46,11 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/helen-mantofani#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/helen-mantofani#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/helenmantofani#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/helenmantofani#gh-dark-mode-only)
 
 
 
