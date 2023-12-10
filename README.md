@@ -1,4 +1,4 @@
-# Hi there, I'm Helen - aka [helenmantofani](https://www.linkedin.com/in/helen-mantofani) 👋
+# Hi there, I'm Helen - aka [Helen Mantofani](https://www.linkedin.com/in/helen-mantofani) 👋
 ## About me:
 - 🔭 I’m currently working as Pharmacist Assistant
 - 🌱 I’m proficient in Microsoft Office
