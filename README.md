@@ -1,26 +1,34 @@
 # Hi there, I'm Helen - aka [helenmantofani](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently working as Pharmacist Assistant
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 🌱 I’m proficient in Microsoft Office
+- 👯 I’m used to handling customer complaints
+- 🤔 I’m used to providing medicine counseling to customers
 - 💬 Ask me about anything
 - 📫 How to reach me: helenmantofani77@gmail.com
 
 ## Education:
 
 #### 1. [Universitas Ibn Khaldun Bogor](https://www.uika-bogor.ac.id) | Bachelor of Public Health | Bogor `2018-2022`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+   - As the coordinator of the National health seminar held by the faculty with the title "Strengthening health promotion to increase health security in tackling covid-19".
+   - KKN in pasir angin village by creating a PHBS work program in the school environment
+   - Become a Health Promoting University committee
+   - Field Work Practice at Salak Hospital Bogor
  #### 2. [SMK Kesehatan Logos](https://www.logosindonesia.sch.id) | Pharmacy | Bogor `2013-2016`
-   - Chief of Rohkris
+   - Participate in Inter-class Quiz
+   - Participating in the Poetry Competition
+   - Become a learning mentor for pharmacy practicum
 
 ## Work Experience:
 #### 1. [PT. Duta Intidaya "Watsons"](https://www.watsons.co.id) | Pharmacist Assistant | Depok `Nov'2016 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+   - Counseled and educated customers on the proper use of medication
+   - Administer and prescribe medication according to customer needs
+   - Successfully reduce customer complaints by constantly informing and promoting through product knowledge
+   - Monitored stock and expired goods and made records
+   - Contribute to the financial monitoring of the company through the production of periodic reports
+   - Collect process and control sales, inventory/stock
+   - Contribute to the smooth administrative operations of the company through timely data input and integration
+   - Collect dozens of sales transactions in cash, debit or credit with accuracy to support business operations
 ---
 
 ### Languages and Tools:
