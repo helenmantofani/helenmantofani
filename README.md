@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Pharmacist Assistant
 - 🌱 I’m proficient in Microsoft Office
 - 👯 I’m used to handling customer complaints
-- 🤔 I’m used to providing medicine counseling to customers
+- 😄 I’m used to providing medicine counseling to customers
 - 💬 Ask me about anything
 - 📫 How to reach me: helenmantofani77@gmail.com
 
